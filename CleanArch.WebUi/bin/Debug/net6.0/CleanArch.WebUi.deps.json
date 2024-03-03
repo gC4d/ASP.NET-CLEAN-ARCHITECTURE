@@ -1,0 +1,77 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CleanArch.WebUi/1.0.0": {
+        "dependencies": {
+          "CleanArch.Infra.IoC": "1.0.0"
+        },
+        "runtime": {
+          "CleanArch.WebUi.dll": {}
+        }
+      },
+      "CleanArch.Application/1.0.0": {
+        "dependencies": {
+          "CleanArch.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CleanArch.Application.dll": {}
+        }
+      },
+      "CleanArch.Domain/1.0.0": {
+        "runtime": {
+          "CleanArch.Domain.dll": {}
+        }
+      },
+      "CleanArch.Infra.Data/1.0.0": {
+        "dependencies": {
+          "CleanArch.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CleanArch.Infra.Data.dll": {}
+        }
+      },
+      "CleanArch.Infra.IoC/1.0.0": {
+        "dependencies": {
+          "CleanArch.Application": "1.0.0",
+          "CleanArch.Domain": "1.0.0",
+          "CleanArch.Infra.Data": "1.0.0"
+        },
+        "runtime": {
+          "CleanArch.Infra.IoC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CleanArch.WebUi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArch.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArch.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArch.Infra.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArch.Infra.IoC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
