@@ -16,12 +16,12 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Projecs\CleanArch\CleanArch\ASP.NET-CLEAN-ARCHITECTURE\CleanArch.WebUi
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Projecs/CleanArch/CleanArch/ASP.NET-CLEAN-ARCHITECTURE/CleanArch.WebUi/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[C:/Projecs/CleanArch/CleanArch/ASP.NET-CLEAN-ARCHITECTURE/CleanArch.WebUi/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projecs/CleanArch/CleanArch/ASP.NET-CLEAN-ARCHITECTURE/CleanArch.WebUi/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[C:/Projecs/CleanArch/CleanArch/ASP.NET-CLEAN-ARCHITECTURE/CleanArch.WebUi/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Projecs/CleanArch/CleanArch/ASP.NET-CLEAN-ARCHITECTURE/CleanArch.WebUi/Views/Shared/Error.cshtml]
